@@ -85,9 +85,6 @@ urlpatterns = [
     # apps
     path("api/", include("chat.urls", namespace="chat")),
     path("api/", include("dsapps.urls", namespace="dsapps")),
-    path("api/prd/", include("product.urls", namespace="product")),
-    path("api/ord/", include("order.urls", namespace="order")),
-    path("api/res/", include("respay.urls", namespace="respay")),
     path("drf-swagger", schema_view),
 ]
 
