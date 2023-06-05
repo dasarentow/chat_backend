@@ -77,10 +77,6 @@ INSTALLED_APPS = [
     "myusers.apps.MyusersConfig",
     "chat.apps.ChatConfig",
     "dsapps.apps.DsappsConfig",
-    # ecommerce app
-    "product.apps.ProductConfig",
-    "order.apps.OrderConfig",
-    "respay.apps.RespayConfig",
     "rest_framework",
     "corsheaders",
     "rest_framework_simplejwt",

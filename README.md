@@ -1,3 +1,3 @@
-![](https://github.com/dasaren/myapps/actions/workflows/chat.yml/badge.svg)
+![](https://github.com/dasaren/chat_backend/actions/workflows/chat.yml/badge.svg)
 
 # myapps
