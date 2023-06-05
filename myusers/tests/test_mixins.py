@@ -3,7 +3,7 @@ import pytest
 from django.contrib.auth import get_user_model
 from myusers.models import NewUser
 from django.test import RequestFactory
-from product.models import Cart
+
 
 User = get_user_model()
 from myusers.permissions import IsStaffEditorPermission
